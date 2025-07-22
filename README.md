@@ -12,7 +12,7 @@
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote="It%20takes%2020%20years%20to%20build%20a%20reputation%20and%20few%20minutes%20of%20cyber-incident%20to%20ruin%20it.")
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=It%20takes%2020%20years%20to%20build%20a%20reputation%20and%20few%20minutes%20of%20cyber-incident%20to%20ruin%20it.)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Elite-Tadano&icon=3&color=1)](https://visitcount.itsvg.in)
